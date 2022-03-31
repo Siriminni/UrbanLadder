@@ -4,6 +4,6 @@ This project is being created with a view to automate the urban ladder website f
 
 Team Members:
 
-ABHIJEET VERMA
-SIRIMINNI 
+ABHIJEET VERMA//
+SIRIMINNI //
 PRANJAL SHUKLA
